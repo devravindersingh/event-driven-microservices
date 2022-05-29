@@ -1,0 +1,101 @@
+2022-05-27 16:24:53 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on ravinderPC with PID 6064 (D:\Development\CoursesCodeBase\event-driven-microservices\twitter-to-kafka-service\target\classes started by ravin in D:\Development\CoursesCodeBase\event-driven-microservices)
+2022-05-27 16:24:53 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-05-27 16:24:54 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.359 seconds (JVM running for 2.165)
+2022-05-27 16:24:54 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - App started .............
+2022-05-27 16:24:54 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-05-27 16:26:51 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on ravinderPC with PID 5628 (D:\Development\CoursesCodeBase\event-driven-microservices\twitter-to-kafka-service\target\classes started by ravin in D:\Development\CoursesCodeBase\event-driven-microservices)
+2022-05-27 16:26:51 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-05-27 16:26:52 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.327 seconds (JVM running for 2.124)
+2022-05-27 16:26:52 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - App started .............
+2022-05-27 16:26:52 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-05-27 16:26:52 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - null
+2022-05-27 16:27:12 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on ravinderPC with PID 12840 (D:\Development\CoursesCodeBase\event-driven-microservices\twitter-to-kafka-service\target\classes started by ravin in D:\Development\CoursesCodeBase\event-driven-microservices)
+2022-05-27 16:27:12 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-05-27 16:27:13 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.367 seconds (JVM running for 2.167)
+2022-05-27 16:27:13 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - App started .............
+2022-05-27 16:27:13 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-05-27 16:27:13 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - null
+2022-05-27 16:27:50 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on ravinderPC with PID 16328 (D:\Development\CoursesCodeBase\event-driven-microservices\twitter-to-kafka-service\target\classes started by ravin in D:\Development\CoursesCodeBase\event-driven-microservices)
+2022-05-27 16:27:50 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-05-27 16:27:50 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.414 seconds (JVM running for 2.285)
+2022-05-27 16:27:50 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - App started .............
+2022-05-27 16:27:50 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-05-27 16:27:50 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - Welcome to the project
+2022-05-27 18:15:31 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on ravinderPC with PID 11184 (D:\Development\CoursesCodeBase\event-driven-microservices\twitter-to-kafka-service\target\classes started by ravin in D:\Development\CoursesCodeBase\event-driven-microservices)
+2022-05-27 18:15:31 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-05-27 18:15:32 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.405 seconds (JVM running for 2.215)
+2022-05-27 18:15:32 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - App started .............
+2022-05-27 18:15:32 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-05-27 18:15:32 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - Welcome to the project
+2022-05-27 18:15:32 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-05-27 18:15:32 [main] INFO  c.r.p.t.t.k.s.r.i.TwitterKafkaStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-05-27 18:15:44 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - stream.twitter.com
+2022-05-27 18:15:44 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 250 milliseconds
+2022-05-27 18:15:44 [Twitter Stream consumer /  [1][Waiting for 250 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-05-27 18:15:44 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - stream.twitter.com
+2022-05-27 18:15:44 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 500 milliseconds
+2022-05-27 18:15:45 [Twitter Stream consumer /  [1][Waiting for 500 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-05-27 18:15:45 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - stream.twitter.com
+2022-05-27 18:15:45 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 1000 milliseconds
+2022-05-27 18:15:46 [Twitter Stream consumer /  [1][Waiting for 1000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-05-27 18:15:46 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - stream.twitter.com
+2022-05-27 18:15:46 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 2000 milliseconds
+2022-05-27 18:15:48 [Twitter Stream consumer /  [1][Waiting for 2000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-05-27 18:15:48 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - stream.twitter.com
+2022-05-27 18:15:48 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 4000 milliseconds
+2022-05-27 18:15:52 [Twitter Stream consumer /  [1][Waiting for 4000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-05-27 18:15:52 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - stream.twitter.com
+2022-05-27 18:15:52 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 8000 milliseconds
+2022-05-27 18:16:00 [Twitter Stream consumer /  [1][Waiting for 8000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-05-27 18:16:11 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - stream.twitter.com
+2022-05-27 18:16:11 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 16000 milliseconds
+2022-05-27 18:16:27 [Twitter Stream consumer /  [1][Waiting for 16000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-05-27 18:16:38 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 403:The request is understood, but it has been refused. An accompanying error message will explain why. This code is used when requests are being denied due to update limits (https://support.twitter.com/articles/15364-about-twitter-limits-update-api-dm-and-following).
+message - You currently have Essential access which includes access to Twitter API v2 endpoints only. If you need access to this endpoint, you’ll need to apply for Elevated access via the Developer Portal. You can learn more here: https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api#v2-access-leve
+code - 453
+
+2022-05-27 18:16:38 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 16000 milliseconds
+2022-05-27 18:16:54 [Twitter Stream consumer /  [1][Waiting for 16000 milliseconds]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-05-27 18:16:55 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 403:The request is understood, but it has been refused. An accompanying error message will explain why. This code is used when requests are being denied due to update limits (https://support.twitter.com/articles/15364-about-twitter-limits-update-api-dm-and-following).
+message - You currently have Essential access which includes access to Twitter API v2 endpoints only. If you need access to this endpoint, you’ll need to apply for Elevated access via the Developer Portal. You can learn more here: https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api#v2-access-leve
+code - 453
+
+2022-05-27 18:16:55 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - Waiting for 32000 milliseconds
+2022-05-27 18:17:07 [SpringContextShutdownHook] INFO  c.r.p.t.t.k.s.r.i.TwitterKafkaStreamRunner - Closing twitter stream
+2022-05-27 18:37:03 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - Starting TwitterToKafkaServiceApplication on ravinderPC with PID 13352 (D:\Development\CoursesCodeBase\event-driven-microservices\twitter-to-kafka-service\target\classes started by ravin in D:\Development\CoursesCodeBase\event-driven-microservices)
+2022-05-27 18:37:03 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - No active profile set, falling back to default profiles: default
+2022-05-27 18:37:03 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - Started TwitterToKafkaServiceApplication in 1.449 seconds (JVM running for 2.264)
+2022-05-27 18:37:03 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - App started .............
+2022-05-27 18:37:03 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-05-27 18:37:03 [main] INFO  c.r.p.t.t.k.s.TwitterToKafkaServiceApplication - Welcome to the project
+2022-05-27 18:37:04 [main] INFO  c.r.p.t.t.k.s.r.i.TwitterKafkaStreamRunner - Started filtering twitter stream for keywords [Java, Microservices, Spring, Kafka, Elasticsearch]
+2022-05-27 18:37:04 [Twitter Stream consumer /  [1][initializing]] INFO  twitter4j.TwitterStreamImpl - Establishing connection.
+2022-05-27 18:37:17 [Twitter Stream consumer /  [1][Establishing connection]] INFO  twitter4j.TwitterStreamImpl - 403:The request is understood, but it has been refused. An accompanying error message will explain why. This code is used when requests are being denied due to update limits (https://support.twitter.com/articles/15364-about-twitter-limits-update-api-dm-and-following).
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 403 
+Please use V2 filtered and sample volume stream as alternatives
+</title>
+</head>
+<body>
+<h2>HTTP ERROR: 403</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    
+Please use V2 filtered and sample volume stream as alternatives
+</pre>
+</body>
+</html>
+
+2022-05-27 18:37:17 [Twitter Stream consumer /  [1][Establishing connection]] WARN  twitter4j.TwitterStreamImpl - This account is not in required role. 403:The request is understood, but it has been refused. An accompanying error message will explain why. This code is used when requests are being denied due to update limits (https://support.twitter.com/articles/15364-about-twitter-limits-update-api-dm-and-following).
+<html>\n<head>\n<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n<title>Error 403 
+Please use V2 filtered and sample volume stream as alternatives
+</title>
+</head>
+<body>
+<h2>HTTP ERROR: 403</h2>
+<p>Problem accessing '/1.1/statuses/filter.json'. Reason:
+<pre>    
+Please use V2 filtered and sample volume stream as alternatives
+</pre>
+</body>
+</html>
+
+2022-05-27 18:37:17 [SpringContextShutdownHook] INFO  c.r.p.t.t.k.s.r.i.TwitterKafkaStreamRunner - Closing twitter stream
